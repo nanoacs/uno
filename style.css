@@ -3,3 +3,29 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
+body{
+	font-family: sans-serif;
+}
+
+.contenedor{
+	width: 100%;
+	padding: 1rem .5rem;
+	text-align: justify;
+}
+
+header{
+	margin:1rem 0;
+}
+
+header h1{
+	text-align: center;
+}
+
+main article{
+	margin:.5rem .5rem 1.5rem .5rem;
+}
+
+footer{
+	margin:.5rem .5rem 1.5rem .5rem;
+}
